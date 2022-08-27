@@ -12,6 +12,14 @@ img {
   float: right
 }
 
+.flip {
+  transform: scaleX(-1)
+}
+
+#left {
+  float:left
+}
+
 .header {
   background-color: midnightblue;
   color: snow;
