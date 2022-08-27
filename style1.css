@@ -25,7 +25,12 @@ h2 {
   padding: 10px
 }
 
+.notbold {
+  font-weight: normal;
+}
+
 .publications {
-  border: 1px solid midnightblue;
-  margin: 0px 10px 10px 10px
+  border-left: 1px solid midnightblue;
+  border-right: 1px solid midnightblue;
+  border-bottom: 1px solid midnightlbue;
 }
