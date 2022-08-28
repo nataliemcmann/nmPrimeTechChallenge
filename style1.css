@@ -21,15 +21,15 @@ img {
 }
 
 .header {
-  background-color: midnightblue;
-  color: snow;
+  background-color: rgba(25,25,112, 0.5);
+  color: midnightblue;
   text-align: center;
   padding: 10px
 }
 
 h2 {
-  background-color: midnightblue;
-  color: snow;
+  background-color: rgba(25,25,112, 0.5);
+  color: midnightblue;
   text-align: center;
   padding: 10px
 }
